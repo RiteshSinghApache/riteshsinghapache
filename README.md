@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Ritesh singh" width="400" src="https://www.google.com/search?sca_esv=3acb789c3fd461ab&sca_upv=1&rlz=1C1CHBD_enIN987IN987&q=animated+coding+gif&uds=ADvngMjGL2z_dD6sqKl5mZzQ0Eev5rTFeOAX2Ei6PNhGdIM536MrV8GKoIuzkHt0sqvbMZ7rl0wBbwhYBGgcZe8lDwypYa-_RIpYqia4uDLVuI1s8CaAjXoY7-1lk2iAc3as9U8HEXIKZMH5FP7ravt1u9CSx2MH2m3Eow0kAGUu7QF1U0v_QihQuEoSvK1Qys6YnoacEsJc3UbipLQQadAo3oKvV9MU4ex236K6yN1q6bt-1enQVZotX2Aho0Wp5TF3IaCYPZkGaKUFoe3_3jx2IMxbJDP-DrWd8XvdGbVbhVG7VuE82qyFgOHTSctWxQjnOtX8MnzCaoNjxvYFm0kBMs6x_dztCg&udm=2&prmd=ivnsbmtz&sa=X&ved=2ahUKEwil15Cpx86GAxVbcWwGHeDdBXEQtKgLegQIERAB#vhid=MwozBsUeOfn96M&vssid=mosaic"/>
+<img align="right" alt="Ritesh singh" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif"/>
 
 
 - 🔭 I’m currently working on **PTC play**
