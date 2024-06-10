@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PTC play**
 
-- 🌱 I’m currently learning **vietjs**
+- 🌱 I’m currently learning **Viet.js**
 
 - 👯 I’m looking to collaborate on **Mern stack Project**
 
