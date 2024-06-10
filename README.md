@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Ritesh singh" width="400" src="[https://miro.medium.com/v2/resize:fit:750/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif](https://github.com/RiteshSinghApache/riteshsinghapache/blob/main/RiteshSinghApache.gif)"/>
+<img align="right" alt="Ritesh singh" width="400" src="https://github.com/RiteshSinghApache/riteshsinghapache/blob/main/RiteshSinghApache.gif"/>
 
 
 - 🔭 I’m currently working on **PTC play**
