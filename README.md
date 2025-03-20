@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ritesh Singh</h1>
 <img align="center" alt="Ritesh singh || Full Stack Developer" src="https://github.com/RiteshSinghApache/riteshsinghapache/blob/main/RiteshSinghApache.jpg"/>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Ritesh singh || Full Stack Developer" width="400" src="https://github.com/RiteshSinghApache/riteshsinghapache/blob/main/RiteshSinghApache.gif"/>
