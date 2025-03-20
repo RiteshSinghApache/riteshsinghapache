@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on **PTC play**
 
-- 🌱 I’m currently learning **Viet.js**
-
 - 👯 I’m looking to collaborate on **Mern stack Project**
 
-- 💬 Ask me about **MongoDb react node.js expree.js**
+- 💬 Ask me about **React.js Node.js Express.js MongoDB**
 
 - 📫 How to reach me **singhritesh628@gmail.com**
 
